@@ -19,7 +19,7 @@ window.addEventListener('DOMContentLoaded',()=>{
     });
     
     btnYes.addEventListener("click",()=>{
-      line.innerHTML="ok lets go!! ";
+      line.innerHTML="okey lets go 😍 💗";
     });
 
 
