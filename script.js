@@ -11,9 +11,7 @@ window.addEventListener('DOMContentLoaded',()=>{
     const line = document.getElementById('line');
 
 
-    button.addEventListener('click', ()=>{
-        alert('clicked !!')
-    })
+   
     button.addEventListener('mouseover',()=>{
         button.style.left=Math.floor(Math.random() * (maxw + 1)) + 'px';
         button.style.top=Math.floor(Math.random() * (maxh + 1)) + 'px';
